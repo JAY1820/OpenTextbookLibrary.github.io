@@ -1,5 +1,5 @@
 # OpenTextbookLibrary.github.io
-Free and Open site for Study Material for a Students.
+Free and Open site for Study Material for a MCA Students.
 Pure HTML , CSS AND JS Website
 
 ### Hi there 👋, MY NAME IS JAYMIN VALAKI
