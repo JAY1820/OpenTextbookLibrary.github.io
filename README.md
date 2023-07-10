@@ -1,42 +1,34 @@
-<h1>Apna Weather App</h1>
-
-<p>Apna Weather App is a web application designed to provide users with real-time weather information for any location. The app offers a simple and intuitive interface for users to easily search for weather data and view forecasts. It utilizes various technologies and APIs to ensure accurate and up-to-date weather information.</p>
-
+<h1>OpenTextbook Library</h1>
+<p>The OpenTextbook Library is a web application designed to provide students with free and open study materials. The platform offers a wide range of textbooks and educational resources that can be accessed online. It aims to support affordable and accessible education for all students.</p>
 <h2>Screenshots</h2>
-
-<h3>Weather Forecast for the Week</h3>
-<img src="https://example.com/forecast-screenshot.png" alt="Weather Forecast">
-
-<h3>Updated Weather Data for Searched City</h3>
-<img src="https://example.com/searched-city-screenshot.png" alt="Updated Weather Data">
-
+<h3>Textbook Collection</h3>
+<img src="https://github.com/JAY1820/Icon_and_gif/blob/main/header-gif.gif" alt="Textbook Collection">
+<h3>Textbook Details and Download Options</h3>
+<img src="https://example.com/textbook-details-screenshot.png" alt="Textbook Details">
 <h2>Features</h2>
-
 <ul>
-  <li>Real-time weather data display for any location</li>
-  <li>Detailed weather forecasts for the upcoming week</li>
-  <li>User-friendly search functionality to easily find weather information</li>
-  <li>Responsive design for seamless viewing on different devices</li>
-  <li>Integration with APIs to fetch accurate weather data</li>
+  <li>Extensive collection of open textbooks for various subjects</li>
+  <li>Search functionality to easily find textbooks based on title, author, or subject</li>
+  <li>Textbook details page with information about the book and download options</li>
+  <li>User-friendly interface for seamless browsing and navigation</li>
+  <li>Responsive design for optimal viewing on different devices</li>
 </ul>
-
 <h2>Technologies Used</h2>
-
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
   <li>JavaScript</li>
-  <li>Apna Weather API</li>
-  <li>Other relevant APIs (e.g., GeoLocation API, Open Weather API)</li>
+  <li>Backend framework (e.g., Node.js, Django) for managing the database and user accounts</li>
+  <li>Database system (e.g., MySQL, PostgreSQL) to store textbook information</li>
 </ul>
-
 <h2>Getting Started</h2>
-
-<p>To run the Apna Weather App locally on your machine, follow these steps:</p>
-
+<p>To access the OpenTextbook Library, simply visit the website at <code>https://OpenTextbookLibrary.github.io</code>. You can then browse the collection, search for textbooks, and download the materials for your studies.</p>
+<p>If you are interested in contributing to the library or running the application locally, follow these steps:</p>
 <ol>
   <li>Clone the project repository: <code>git clone &lt;repository-url&gt;</code></li>
-  <li>Open the <code>index.html</code> file in your preferred web browser.</li>
-  <li>Start exploring the app and searching for weather information.</li>
+  <li>Install any necessary dependencies based on the backend framework used</li>
+  <li>Set up the database system and import the textbook data</li>
+  <li>Start the application server</li>
+  <li>Open the web application in your preferred web browser.</li>
 </ol>
-
+<p>Once the application is up and running, you can explore the textbook collection and utilize the features of the OpenTextbook Library.</p>
