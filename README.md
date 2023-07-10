@@ -1,10 +1,8 @@
 <h1>OpenTextbook Library</h1>
 <p>The OpenTextbook Library is a web application designed to provide students with free and open study materials. The platform offers a wide range of textbooks and educational resources that can be accessed online. It aims to support affordable and accessible education for all students.</p>
-<h2>Screenshots</h2>
+
 <h3>Textbook Collection</h3>
 <img src="https://github.com/JAY1820/Icon_and_gif/blob/main/header-gif.gif" alt="Textbook Collection">
-<h3>Textbook Details and Download Options</h3>
-<img src="https://example.com/textbook-details-screenshot.png" alt="Textbook Details">
 <h2>Features</h2>
 <ul>
   <li>Extensive collection of open textbooks for various subjects</li>
