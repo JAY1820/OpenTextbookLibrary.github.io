@@ -8,7 +8,7 @@
 ![Flow Finder Board View](https://github.com/JAY1820/Icon_and_gif/blob/main/opne%20book%20ss1.png)
 
 
-![Flow Finder Task Details](https://github.com/JAY1820/Icon_and_gif/blob/main/mama%20ceramic%20image%202.png)
+![Flow Finder Task Details](https://github.com/JAY1820/Icon_and_gif/blob/main/opne%20book%20ss2.png)
 
 
 <h2>Features</h2>
