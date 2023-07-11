@@ -3,10 +3,17 @@
 
 <h3>Textbook Collection</h3>
 <img src="https://github.com/JAY1820/Icon_and_gif/blob/main/header-gif.gif" alt="Textbook Collection">
+## Screenshots
+
+![Flow Finder Board View](https://github.com/JAY1820/Icon_and_gif/blob/main/opne%20book%20ss1.png)
+
+
+![Flow Finder Task Details](https://github.com/JAY1820/Icon_and_gif/blob/main/mama%20ceramic%20image%202.png)
+
+
 <h2>Features</h2>
 <ul>
   <li>Extensive collection of open textbooks for various subjects</li>
-  <li>Search functionality to easily find textbooks based on title, author, or subject</li>
   <li>Textbook details page with information about the book and download options</li>
   <li>User-friendly interface for seamless browsing and navigation</li>
   <li>Responsive design for optimal viewing on different devices</li>
